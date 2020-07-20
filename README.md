@@ -1,1 +1,3 @@
 # teddyng.github.io
+
+I will start making a custom website eventually...
